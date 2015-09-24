@@ -74,7 +74,12 @@ footer{
 }
 .text_list{
 	margin-left: 20px;
-}
-.text_list a{
 	margin-top: 10px;
+	line-height: 30px;
+}
+.edit_delete{
+	margin-top: 40px;
+}
+.content_all{
+	display: inline;
 }
